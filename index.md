@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to 7829 Pages
 
 You can use the [editor on GitHub](https://github.com/7829/7829.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
